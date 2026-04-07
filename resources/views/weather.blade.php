@@ -12,7 +12,6 @@
         .glass { background: rgba(255, 255, 255, 0.12); backdrop-filter: blur(20px) saturate(180%); border: 1px solid rgba(255, 255, 255, 0.2); }
         .inner-glass { background: rgba(0, 0, 0, 0.2); border: 1px solid rgba(255, 255, 255, 0.05); }
         .text-glow { text-shadow: 0 0 12px rgba(255, 255, 255, 0.4); }
-        /* Map style agar kompak */
         #map { height: 160px; border-radius: 1.5rem; margin-top: 1rem; border: 1px solid rgba(255,255,255,0.1); }
     </style>
 </head>
