@@ -94,7 +94,7 @@
 
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
     <script>
-        // Memastikan data location ada dalam response JSON
+
         @if(isset($weatherData['location']))
 
             var lat = {{ $weatherData['location']['lat'] }};
